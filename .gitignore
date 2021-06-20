@@ -1,0 +1,6 @@
+*~
+*.csv
+*.kdev4
+*.vscode
+doxygen/
+build
